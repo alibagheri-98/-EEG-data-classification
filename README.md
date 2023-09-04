@@ -1,4 +1,5 @@
 # EEG-data-classification
+This repository contains my final project for the 'Artificial Intelligence and Biological Computing' course (also known as Computational Intelligence), which was instructed by Dr. Hajipour at Sharif University of Technology during the Fall of 2021.
 In this repository, features were extracted from EEG data, and the best features were selected for classifying the signals using Genetic Algorithms.
 ## phase 1: 
 - the features were extracted from the channels. 
